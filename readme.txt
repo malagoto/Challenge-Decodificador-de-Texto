@@ -2,7 +2,7 @@
 https://vercel.app/
 
 DESCRIÇÃO DO PROJETO
-📄 Este projeto se trata de uma aplicação que criptografa 🔒 e descriptografa 🔓 textos.
+📄 Este projeto se trata de uma aplicação para criptografar e descriptografar textos. 
 
 📄 Sua idealização foi feita com base no 'Challenge' da trilha 'Iniciante em Programação - do programa 'ONE | ALURA'.
 
