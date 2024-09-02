@@ -1,4 +1,4 @@
--Challenge Decodificador de Texto
+Challenge Decodificador de Texto - Alura
 
 https://challenge-decodificador-de-texto-six.vercel.app/
 
