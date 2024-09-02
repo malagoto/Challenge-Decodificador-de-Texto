@@ -1,13 +1,19 @@
--Challenge-Decodificador-de-Texto
+-Challenge Decodificador de Texto
 
 https://challenge-decodificador-de-texto-six.vercel.app/
 
 DESCRIÇÃO DO PROJETO
+
 📄 Este projeto se trata de uma aplicação para criptografar e descriptografar textos. 
 
 📄 Sua idealização foi feita com base no 'Challenge' da trilha 'Iniciante em Programação - do programa 'ONE | ALURA'.
 
 📄 Seu funcionamento se baseia em "chaves" de criptografia.
+
+
+
+
+
 
 📄 Um exemplo simples da funcionalidade dessa aplicação seria:
 

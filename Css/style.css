@@ -149,8 +149,8 @@ textarea:focus{
     width: auto;
     height: auto;
     padding: 4% 0% 4% 0%;
-    background-color:#CED4DA;
-    color: #0A3871;
+    background-color:#0A3871;
+    color: #f5f6f8;
     border: 1px solid #0A3871;
     border-radius: 24px;
     cursor: pointer;
