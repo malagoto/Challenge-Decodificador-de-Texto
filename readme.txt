@@ -1,6 +1,5 @@
-Challenge Decodificador de Texto - Alura
-
-https://challenge-decodificador-de-texto-six.vercel.app/
+-Challenge-Decodificador-de-Texto
+https://vercel.app/
 
 DESCRIÇÃO DO PROJETO
 
